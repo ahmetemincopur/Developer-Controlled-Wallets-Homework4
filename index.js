@@ -246,7 +246,7 @@ npm run start
 // ----- Step 9 -----
 
 // Check transfer state
-// check_transfer_state("4b380ca3-4e0a-5648-8b45-0e95e1a809ec");
+// check_transfer_state("c018767e-7089-58e6-9491-84e5a16294b6");
 
 // Should return:
 // response:  {
